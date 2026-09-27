@@ -1,0 +1,8 @@
+go.sum linguist-generated
+Cargo.lock linguist-generated
+*.woff2 binary
+*.gif binary
+*.png binary
+public/** linguist-vendored
+*.md linguist-documentation
+src/*.ts linguist-detectable
